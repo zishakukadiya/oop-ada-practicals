@@ -1,0 +1,7 @@
+PBL 19 - Student Marksheet using Packages
+==========================================
+Run from inside PBL19_Packages/ folder:
+
+  javac student/Student.java
+  javac -cp . exam/ExamMain.java
+  java -cp . exam.ExamMain
